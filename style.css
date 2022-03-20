@@ -132,8 +132,17 @@ header .top-five-links li{
     margin-top: 5px;
 }
 
+header .top-link-one{
+    margin-left: 178px;
+    margin-bottom: 10px;   
+}
+
+header .top-link-two{
+    margin-left: 28px; 
+}
+
 header .top-link-three{
-    margin-left: 228px;   
+    margin-left: 28px;   
 }
 
 header .top-link-four{
@@ -141,8 +150,7 @@ header .top-link-four{
 }
 
 header .top-link-five{
-    margin-left: 28px;
-  
+    margin-left: 28px; 
 }
 
 header .top-five-links li a{
@@ -162,7 +170,7 @@ header .top-five-links li a{
 }
 
 .your-cart-photo{
-    padding-left: 145px;
+    padding-left: 24px;
 }
 
 /*main body styles*/
